@@ -55,11 +55,11 @@ You are required to model the demand for shared bikes with the available indepen
 
 
 ## Acknowledgements
-Give credit here.
-- Analytics vidhya was referred to understand few concepts 
+- Analytics vidhya was referred to understand few concepts
+- Upgrad for great learning content
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@pradyrk] - feel free to contact me!
 
 
