@@ -39,9 +39,9 @@ You are required to model the demand for shared bikes with the available indepen
       -   mnth_sept
       -   Season_winter
 
-- Linear equation of Final model is - y = 810.278991 + (2021.952381 * yr) + (-490.197887 * holiday) + (403.872155 * workingday) + (4509.792037 * temp) + (-1311.312270 * windspeed) + (861.774932 * season_summmer) + (1211.623058 * season_winter) + (443.054019 * mnth_aug) + ( 986.670055 * mnth_sept) +(495.958096 * weekday_sat) +(weathersit_Drizzle * -2504.858694 ) + (weathersit_Misty * -733.632834 )
+- Linear equation of Final model is - y = 732.580867 + (2019.177809 * yr) + (-512.798254 * holiday) + (407.901920 * workingday) + (4942.056768 * temp) + (-1347.183854 * windspeed) + (689.878388 * season_summer) + (1113.750375 * season_winter) + (-334.255523 * mnth_jul) + ( 786.004550 * mnth_sept) +(510.312734 * weekday_mon) +(weathersit_Drizzle * -2505.378688 ) + (weathersit_Misty * -719.702118 )
 
-- The R2 value of prediction on test dataset is 0.7968578238752019 which is pretty much close to the training dataset 
+- The R2 value of prediction on test dataset is 0.7955789654753544 which is pretty much close to the training dataset 
 
 
 
