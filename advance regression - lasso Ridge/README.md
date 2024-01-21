@@ -2,7 +2,7 @@
 > House Price Prediction - Regularization using Lasso and Ridge
 
 
- Table of Contents
+## Table of Contents
 * [About the Project](#about-the-project)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
@@ -10,7 +10,7 @@
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-About the Project: 
+## About the Project: 
 A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia. The data is provided in the CSV file below.
 
  
@@ -28,7 +28,7 @@ The company wants to know:
 
 
 
- Conclusions
+## Conclusions
 - Lasso Performed better than Ridge and Linear Regression
 - Lasso prediction score on train(0.897) and test(0.890) is close to zero variance(0.007)
 - Ridge prediction score on train(0.901) and test(0.876) is close to 3% variance
@@ -40,24 +40,22 @@ The company wants to know:
 
 
 
- Technologies Used
-- pandas 
-- numpy
-- matplotlib 
-- seaborn
-- sklearn
-- statsmodels
+## Technologies Used
+- python - Version 3.10.0
+- pandas - Version 2.1.3
+- seaborn - Version 0.12.0
+- sklearn - Version 1.3.0
+- sstatsmodels - Version 0.14.0
 
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
- Acknowledgements
- Knowedge Articles by Analytics Vidya 
- Knowledge Artiles by machinelearningmastery.com
- The knowledge and course content by Upgrad
+## Acknowledgements
+- Knowledge Articles by Analytics Vidya 
+- Knowledge Artiles by machinelearningmastery.com
+- The knowledge and course content by Upgrad
 
 
- Contact
+## Contact
 Created by [@pradyrk] - feel free to contact me!
 
 
