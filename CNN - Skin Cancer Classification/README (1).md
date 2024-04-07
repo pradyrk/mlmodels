@@ -31,7 +31,7 @@ To overcome the issue of class imbalance, used a python package  Augmentor (http
 
 ### Sample image from Dataset
 
-![sample image](CNN - Skin Cancer Classification/reference images/cancer.png)
+![sample image](https://github.com/pradyrk/mlmodels/blob/main/CNN%20-%20Skin%20Cancer%20Classification/reference%20images/cancer.png)
 
 ## CNN Architecture Design
 To classify skin cancer using skin lesions images. To achieve higher accuracy and results on the classification task, I have built custom CNN model.
