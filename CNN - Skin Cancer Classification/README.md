@@ -52,7 +52,7 @@ To classify skin cancer using skin lesions images. To achieve higher accuracy an
 The final model score is
 loss: 0.3344 - accuracy: 0.8793 - val_loss: 0.3452 - val_accuracy: 0.8872 - lr: 0.0010
 
-![Model Accuracy](https://github.com/pradyrk/mlmodels/blob/main/CNN%20-%20Skin%20Cancer%20Classification/reference%20images/accuracy.png)
+![Model Accuracy](https://github.com/pradyrk/mlmodels/blob/main/CNN%20-%20Skin%20Cancer%20Classification/reference%20images/aacuracy.png)
 
 ## Technologies Used
 - Tensorflow
