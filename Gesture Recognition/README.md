@@ -29,11 +29,11 @@ Databricks ML Runtime with GPU instance is used where all the required packages 
 ### Dataset:
 You can download the dataset from [here.](https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL)
 The training data consists of a few hundred videos categorised into one of the five classes. Each video (typically 2-3 seconds long) is divided into a sequence of 30 frames(images). These videos have been recorded by various people performing one of the five gestures in front of a webcam - similar to what the smart TV will use.It looks like this:
-![dataset](https://user-images.githubusercontent.com/29462447/86066087-d03cf680-ba8e-11ea-91f5-960b5f522a39.png)
+![dataset](https://github.com/pradyrk/mlmodels/blob/main/Gesture%20Recognition/references/download.png)
 
 ### Observations:
 
-![observations](https://user-images.githubusercontent.com/29462447/86066095-d501aa80-ba8e-11ea-82d8-4681e20e310e.png)
+![observations](https://github.com/pradyrk/mlmodels/blob/main/Gesture%20Recognition/references/Screenshot%202024-04-25%20at%209.49.27%E2%80%AFPM.png)
 
 
 
