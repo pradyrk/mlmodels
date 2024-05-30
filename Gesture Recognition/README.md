@@ -33,7 +33,7 @@ The training data consists of a few hundred videos categorised into one of the f
 
 ### Observations:
 
-![observations](https://github.com/pradyrk/mlmodels/blob/main/Gesture%20Recognition/references/Screenshot%202024-04-25%20at%209.49.27%E2%80%AFPM.png)
+![observations](https://github.com/pradyrk/mlmodels/blob/main/Gesture%20Recognition/references/Screenshot%202024-04-25%20at%2010.31.14%E2%80%AFPM.png)
 
 
 
